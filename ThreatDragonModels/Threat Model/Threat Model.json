@@ -8,8 +8,18 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "STRIDE図",
+        "diagramType": "STRIDE",
+        "placeholder": "新しいSTRIDE図の概要",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 3,
     "reviewer": "niwa",
     "threatTop": 0
   }
